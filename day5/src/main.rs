@@ -85,23 +85,24 @@ fn run_registers(registers: &mut Vec<i32>) {
                 .parse::<u8>()
                 .expect("couldn't parse opcode"),
         );
+        let mut pos = position + 1..;
         match opcode {
             Opcode::Add => {
-                let num1 = get_register_value(registers, position + 1, opmodes.next());
-                let num2 = get_register_value(registers, position + 2, opmodes.next());
-                let deposit = get_mut_register_value(registers, position + 3, opmodes.next());
+                let num1 = get_register_value(registers, pos.next(), opmodes.next());
+                let num2 = get_register_value(registers, pos.next(), opmodes.next());
+                let deposit = get_mut_register_value(registers, pos.next());
                 *deposit = num1 + num2;
-                position += 4;
+                position = pos.next().unwrap();
             }
             Opcode::Mult => {
-                let num1 = get_register_value(registers, position + 1, opmodes.next());
-                let num2 = get_register_value(registers, position + 2, opmodes.next());
-                let deposit = get_mut_register_value(registers, position + 3, opmodes.next());
+                let num1 = get_register_value(registers, pos.next(), opmodes.next());
+                let num2 = get_register_value(registers, pos.next(), opmodes.next());
+                let deposit = get_mut_register_value(registers, pos.next());
                 *deposit = num1 * num2;
-                position += 4;
+                position = pos.next().unwrap();
             }
             Opcode::Input => {
-                let deposit = get_mut_register_value(registers, position + 1, opmodes.next());
+                let deposit = get_mut_register_value(registers, pos.next());
                 let mut input = String::new();
                 println!("Please enter some input: ");
                 io::stdin()
@@ -112,71 +113,70 @@ fn run_registers(registers: &mut Vec<i32>) {
                     .parse::<i32>()
                     .expect("Could not parse input must be i32");
                 *deposit = input_number;
-                position += 2;
+                position = pos.next().unwrap();
             }
             Opcode::Output => {
-                let deposit = get_register_value(registers, position + 1, opmodes.next());
+                let deposit = get_register_value(registers, pos.next(), opmodes.next());
                 println!("Output: {}", deposit);
-                position += 2;
+                position = pos.next().unwrap();
             }
             Opcode::JumpIfTrue => {
-                let num1 = get_register_value(registers, position + 1, opmodes.next());
-                let num2 = get_register_value(registers, position + 2, opmodes.next());
+                let num1 = get_register_value(registers, pos.next(), opmodes.next());
+                let num2 = get_register_value(registers, pos.next(), opmodes.next());
                 if num1 != 0 {
                     position = num2 as usize;
                 } else {
-                    position += 3
+                    position = pos.next().unwrap()
                 }
             }
             Opcode::JumpIfFalse => {
-                let num1 = get_register_value(registers, position + 1, opmodes.next());
-                let num2 = get_register_value(registers, position + 2, opmodes.next());
+                let num1 = get_register_value(registers, pos.next(), opmodes.next());
+                let num2 = get_register_value(registers, pos.next(), opmodes.next());
                 if num1 == 0 {
                     position = num2 as usize;
                 } else {
-                    position += 3
+                    position = pos.next().unwrap()
                 }
             }
             Opcode::LessThan => {
-                let num1 = get_register_value(registers, position + 1, opmodes.next());
-                let num2 = get_register_value(registers, position + 2, opmodes.next());
-                let deposit = get_mut_register_value(registers, position + 3, opmodes.next());
+                let num1 = get_register_value(registers, pos.next(), opmodes.next());
+                let num2 = get_register_value(registers, pos.next(), opmodes.next());
+                let deposit = get_mut_register_value(registers, pos.next());
                 *deposit = if num1 < num2 { 1 } else { 0 };
-                position += 4
+                position = pos.next().unwrap()
             }
             Opcode::EqualTo => {
-                let num1 = get_register_value(registers, position + 1, opmodes.next());
-                let num2 = get_register_value(registers, position + 2, opmodes.next());
-                let deposit = get_mut_register_value(registers, position + 3, opmodes.next());
+                let num1 = get_register_value(registers, pos.next(), opmodes.next());
+                let num2 = get_register_value(registers, pos.next(), opmodes.next());
+                let deposit = get_mut_register_value(registers, pos.next());
                 *deposit = if num1 == num2 { 1 } else { 0 };
-                position += 4
+                position = pos.next().unwrap()
             }
             Opcode::Halt => {
-                dbg!(registers);
                 break;
             }
         }
     }
 }
 
-fn get_register_value(registers: &Vec<i32>, index: usize, mode: Option<char>) -> i32 {
+fn get_register_value(registers: &Vec<i32>, index: Option<usize>, mode: Option<char>) -> i32 {
     match Mode::from(mode.unwrap_or('0').to_digit(10).unwrap()) {
         Mode::Position => *registers
             .get(
                 *registers
-                    .get(index)
+                    .get(index.unwrap())
                     .expect("couldn't reach register positionally") as usize,
             )
             .expect("couldn't reach register value"),
         Mode::Immediate => *registers
-            .get(index)
+            .get(index.unwrap())
             .expect("couldn't reach register immediately"),
     }
 }
 
-fn get_mut_register_value(registers: &mut Vec<i32>, index: usize, _: Option<char>) -> &mut i32 {
+fn get_mut_register_value(registers: &mut Vec<i32>, index: Option<usize>) -> &mut i32 {
     let d_index = *registers
-        .get(index)
+        .get(index.unwrap())
         .expect("couldn't get deposit register position");
     registers
         .get_mut(d_index as usize)

@@ -1,4 +1,5 @@
 use std::collections::VecDeque;
+use std::fs;
 
 enum Opcode {
     Add,
@@ -48,7 +49,7 @@ impl From<u32> for Mode {
     }
 }
 
-#[derive(Eq, PartialEq, Debug, Clone)]
+#[derive(Eq, PartialEq, Clone)]
 pub enum State {
     Operating,
     Halted,
@@ -66,7 +67,7 @@ pub struct Computer {
 }
 
 impl Computer {
-    pub fn new(registers: &Vec<i64>) -> Self {
+    pub fn new(registers: Vec<i64>) -> Self {
         let mut preallocated_registers = registers.clone();
         preallocated_registers.extend_from_slice(&[0; 10_000]);
         Self {
@@ -79,7 +80,7 @@ impl Computer {
         }
     }
 
-    pub fn run(&mut self) -> &Vec<i64> {
+    pub fn run(&mut self) {
         loop {
             let machine_code = self.registers.get(self.position).unwrap().to_string();
 
@@ -171,7 +172,6 @@ impl Computer {
                 }
             }
         }
-        &self.registers
     }
     fn get_register_value(&self, index: Option<usize>, mode: Option<char>) -> i64 {
         match Mode::from(mode.unwrap_or('0').to_digit(10).unwrap()) {
@@ -232,6 +232,21 @@ impl Computer {
         self.inputs.push_back(input);
     }
 }
+
+pub fn input_to_registers() -> Vec<i64> {
+    let input = fs::read_to_string("input.txt").unwrap();
+    input
+        .split(",")
+        .map(|x| match x.trim().parse::<i64>() {
+            Ok(num) => num,
+            Err(_) => {
+                println!("could not parse {}", x);
+                panic!("could not parse");
+            }
+        })
+        .collect::<Vec<_>>()
+}
+
 
 // #[test]
 // fn it_works() {

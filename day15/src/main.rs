@@ -6,47 +6,27 @@ use std::collections::HashMap;
 use std::collections::VecDeque;
 
 fn main() {
-    let result = part1();
-    // println!("part1 {}", result);
+    part1();
+    part2();
 }
-
-// #[derive(Debug, Clone, PartialEq, Eq)]
-// struct Tile {
-//     x: i32,
-//     y: i32,
-//     tile_type: Type,
-// }
 
 #[derive(Debug, Clone, PartialEq, Eq, Hash, Copy)]
 enum Type {
     Empty,
     Wall,
     Oxygen,
+    Start,
 }
 
 impl From<i64> for Type {
     fn from(value: i64) -> Self {
         match value {
-            0 => Type::Empty,
-            1 => Type::Wall,
+            1 => Type::Empty,
+            0 => Type::Wall,
             2 => Type::Oxygen,
             _ => unimplemented!(),
         }
     }
-}
-
-fn input_to_registers() -> Vec<i64> {
-    let input = fs::read_to_string("input.txt").unwrap();
-    input
-        .split(",")
-        .map(|x| match x.trim().parse::<i64>() {
-            Ok(num) => num,
-            Err(_) => {
-                println!("could not parse {}", x);
-                panic!("could not parse");
-            }
-        })
-        .collect::<Vec<_>>()
 }
 
 struct Node {
@@ -100,63 +80,111 @@ impl Dir {
 
 const DIRECTIONS: [Dir; 4] = [Dir::East, Dir::South, Dir::West, Dir::North];
 
-type Map = HashMap<(isize, isize), Type>;
+type Map = HashMap<(isize, isize), (Type, usize)>;
 
 fn part1() {
     let mut map: Map = HashMap::new();
-    map.insert((0, 0), Type::Empty);
+    map.insert((0, 0), (Type::Start, 0));
     let mut queue: VecDeque<Node> = VecDeque::new();
     queue.push_back(Node {
         x: 0,
         y: 0,
-        computer: Computer::new(&input_to_registers()),
+        computer: Computer::new(input_to_registers()),
         step: 0,
     });
 
-    let mut count = 0;
-    // while !queue.is_empty() {
-        while count < 10 {
-        count += 1;
-        let current = queue.pop_front().unwrap();
-
+    while let Some(current) = queue.pop_front() {
         for direction in DIRECTIONS.iter() {
-            let new_coords = direction.change(current.x, current.y);
-            if map.get(&new_coords).is_some() {
-                continue;
-            }
-
-            let mut comp = current.computer.clone();
-            let a: Dir = *direction;
-            let b: i64 = a.into();
-            comp.input(b);
-            comp.run();
-            // dbg!(new_registers == current.registers);
-            let output = comp.outputs.pop_front().expect("no tile type");
-            let tile_type = Type::from(output);
-            match tile_type {
-                Type::Wall => {
-                    map.insert(new_coords, Type::Wall);
-                }
-                t => {
-                    if t == Type::Oxygen {
-                        dbg!("found oxygen");
-                    }
-                    map.insert(new_coords, t);
-                    queue.push_back(Node {
-                        x: new_coords.0,
-                        y: new_coords.1,
-                        computer: comp.clone(),
-                        step: count,
-                    });
-                }
+            if let Some(node) = iterate(&current.computer, direction, &current, &mut map) {
+                queue.push_back(node)
             }
         }
 
-        visualize(&map);
-        // dbg!(queue.iter().map(|node| (node.x, node.y)).collect::<Vec<_>>());
+    }
+    visualize(&map);
+
+    for ((x, y), (tile, step)) in map.iter() {
+        if tile == &Type::Oxygen {
+            println!("{:?}", (x, y));
+            println!("oxygen on move: {}", step);
+        }
+    }
+}
+
+fn part2() {
+    let mut map: Map = HashMap::new();
+    map.insert((0, 0), (Type::Start, 0));
+    let mut queue: VecDeque<Node> = VecDeque::new();
+    queue.push_back(Node {
+        x: 0,
+        y: 0,
+        computer: Computer::new(input_to_registers()),
+        step: 0,
+    });
+
+    'bfs: while let Some(current) = queue.pop_front() {
+        for direction in DIRECTIONS.iter() {
+            if let Some(mut node) = iterate(&current.computer, direction, &current, &mut map) {
+                if map.get(&(-20, 14)).is_some() {
+                    queue.clear();
+                    map.clear();
+                    node.step = 0;
+                    queue.push_back(node);
+                    break 'bfs
+                }
+                queue.push_back(node)
+            }
+        }
+
     }
 
-    dbg!(map);
+    while let Some(current) = queue.pop_front() {
+        for direction in DIRECTIONS.iter() {
+            if let Some(node) = iterate(&current.computer, direction, &current, &mut map) {
+                queue.push_back(node)
+            }
+        }
+
+    }
+
+    let max = map.values().max_by(|(_, step1), (_, step2)| step1.cmp(&step2)).unwrap().1;
+    println!("part2: {}", max);
+}
+
+fn iterate(computer: &Computer, direction: &Dir, current: &Node, map: &mut Map) -> Option<Node> {
+    let new_coords = direction.change(current.x, current.y);
+    let step = current.step + 1;
+    if map.get(&new_coords).is_some() {
+        return None
+    }
+
+    let a: Dir = *direction;
+    let b: i64 = a.into();
+    let mut computer = computer.clone();
+    computer.input(b);
+    computer.run();
+    let output = computer.outputs.pop_front().expect("no tile type");
+    let tile_type = Type::from(output);
+    match tile_type {
+        Type::Wall => {
+            map.insert(new_coords, (Type::Wall, step));
+            None
+        }
+        t => {
+            if t == Type::Oxygen {
+                // no idea what is going on this answer is -6 of the real answer???
+                dbg!("found oxygen");
+                dbg!(step);
+            }
+            map.insert(new_coords, (t, step));
+            Some(Node {
+                x: new_coords.0,
+                y: new_coords.1,
+                computer,
+                step,
+            })
+        }
+    }
 }
 
 fn visualize(map: &Map) {
@@ -181,11 +209,12 @@ fn visualize(map: &Map) {
 
     let mut canvas = vec![vec![' '; (max_x + min_x.abs() + 10) as usize]; (max_y + min_y.abs() + 10) as usize];
 
-    for ((x, y), tile_type) in map {
+    for ((x, y), (tile_type, _)) in map {
         canvas[(*y + min_y.abs()) as usize][(*x + min_x.abs()) as usize] = match tile_type {
             Type::Wall => '#',
             Type::Empty => '.',
             Type::Oxygen => '@',
+            Type::Start => '0',
         };
     }
 

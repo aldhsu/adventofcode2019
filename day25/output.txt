@@ -1,0 +1,5346 @@
+["jam"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["mug"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["spool of cat6"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["prime number"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["food ration"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "mug"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "spool of cat6"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "prime number"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "food ration"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "mug"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "spool of cat6"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "prime number"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "food ration"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["mug", "spool of cat6"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["mug", "prime number"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["mug", "food ration"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["mug", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["mug", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["spool of cat6", "prime number"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["spool of cat6", "food ration"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["spool of cat6", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["spool of cat6", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["prime number", "food ration"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["prime number", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["prime number", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["food ration", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["food ration", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "mug"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "spool of cat6"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "prime number"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "food ration"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "mug", "spool of cat6"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "mug", "prime number"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "mug", "food ration"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "mug", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "mug", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "spool of cat6", "prime number"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "spool of cat6", "food ration"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "spool of cat6", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "spool of cat6", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "prime number", "food ration"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "prime number", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "prime number", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "food ration", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "food ration", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "mug", "spool of cat6"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "mug", "prime number"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "mug", "food ration"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "mug", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "mug", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "spool of cat6", "prime number"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "spool of cat6", "food ration"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "spool of cat6", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "spool of cat6", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "prime number", "food ration"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "prime number", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "prime number", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "food ration", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "food ration", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["mug", "spool of cat6", "prime number"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["mug", "spool of cat6", "food ration"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["mug", "spool of cat6", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["mug", "spool of cat6", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["mug", "prime number", "food ration"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["mug", "prime number", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["mug", "prime number", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["mug", "food ration", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["mug", "food ration", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["mug", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["spool of cat6", "prime number", "food ration"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["spool of cat6", "prime number", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["spool of cat6", "prime number", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["spool of cat6", "food ration", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["spool of cat6", "food ration", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["spool of cat6", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["prime number", "food ration", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["prime number", "food ration", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["prime number", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["food ration", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "mug", "spool of cat6"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "mug", "prime number"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "mug", "food ration"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "mug", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "mug", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "spool of cat6", "prime number"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "spool of cat6", "food ration"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "spool of cat6", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "spool of cat6", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Analysis complete! You may proceed." and you enter the cockpit.
+Santa notices your small droid, looks puzzled for a moment, realizes what has happened, and radios your ship directly.
+"Oh, hello! You should be able to get in by typing 537002052 on the keypad at the main airlock."
+["jam", "loom", "prime number", "food ration"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "prime number", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "prime number", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "food ration", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "food ration", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "mug", "spool of cat6", "prime number"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "mug", "spool of cat6", "food ration"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "mug", "spool of cat6", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "mug", "spool of cat6", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "mug", "prime number", "food ration"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "mug", "prime number", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "mug", "prime number", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "mug", "food ration", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "mug", "food ration", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "mug", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "spool of cat6", "prime number", "food ration"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "spool of cat6", "prime number", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "spool of cat6", "prime number", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "spool of cat6", "food ration", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "spool of cat6", "food ration", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "spool of cat6", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "prime number", "food ration", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "prime number", "food ration", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "prime number", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "food ration", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "mug", "spool of cat6", "prime number"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "mug", "spool of cat6", "food ration"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "mug", "spool of cat6", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "mug", "spool of cat6", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "mug", "prime number", "food ration"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "mug", "prime number", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "mug", "prime number", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "mug", "food ration", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "mug", "food ration", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "mug", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "spool of cat6", "prime number", "food ration"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "spool of cat6", "prime number", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "spool of cat6", "prime number", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "spool of cat6", "food ration", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "spool of cat6", "food ration", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "spool of cat6", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "prime number", "food ration", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "prime number", "food ration", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "prime number", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "food ration", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["mug", "spool of cat6", "prime number", "food ration"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["mug", "spool of cat6", "prime number", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["mug", "spool of cat6", "prime number", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["mug", "spool of cat6", "food ration", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["mug", "spool of cat6", "food ration", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["mug", "spool of cat6", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["mug", "prime number", "food ration", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["mug", "prime number", "food ration", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["mug", "prime number", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["mug", "food ration", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["spool of cat6", "prime number", "food ration", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["spool of cat6", "prime number", "food ration", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["spool of cat6", "prime number", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["spool of cat6", "food ration", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["prime number", "food ration", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "mug", "spool of cat6", "prime number"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "mug", "spool of cat6", "food ration"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "mug", "spool of cat6", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "mug", "spool of cat6", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "mug", "prime number", "food ration"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "mug", "prime number", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "mug", "prime number", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "mug", "food ration", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "mug", "food ration", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "mug", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "spool of cat6", "prime number", "food ration"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "spool of cat6", "prime number", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "spool of cat6", "prime number", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "spool of cat6", "food ration", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "spool of cat6", "food ration", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "spool of cat6", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "prime number", "food ration", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "prime number", "food ration", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "prime number", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "food ration", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "mug", "spool of cat6", "prime number", "food ration"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "mug", "spool of cat6", "prime number", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "mug", "spool of cat6", "prime number", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "mug", "spool of cat6", "food ration", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "mug", "spool of cat6", "food ration", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "mug", "spool of cat6", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "mug", "prime number", "food ration", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "mug", "prime number", "food ration", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "mug", "prime number", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "mug", "food ration", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "spool of cat6", "prime number", "food ration", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "spool of cat6", "prime number", "food ration", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "spool of cat6", "prime number", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "spool of cat6", "food ration", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "prime number", "food ration", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "mug", "spool of cat6", "prime number", "food ration"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "mug", "spool of cat6", "prime number", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "mug", "spool of cat6", "prime number", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "mug", "spool of cat6", "food ration", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "mug", "spool of cat6", "food ration", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "mug", "spool of cat6", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "mug", "prime number", "food ration", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "mug", "prime number", "food ration", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "mug", "prime number", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "mug", "food ration", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "spool of cat6", "prime number", "food ration", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "spool of cat6", "prime number", "food ration", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "spool of cat6", "prime number", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "spool of cat6", "food ration", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "prime number", "food ration", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["mug", "spool of cat6", "prime number", "food ration", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["mug", "spool of cat6", "prime number", "food ration", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["mug", "spool of cat6", "prime number", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["mug", "spool of cat6", "food ration", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["mug", "prime number", "food ration", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["spool of cat6", "prime number", "food ration", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "mug", "spool of cat6", "prime number", "food ration"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "mug", "spool of cat6", "prime number", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "mug", "spool of cat6", "prime number", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "mug", "spool of cat6", "food ration", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "mug", "spool of cat6", "food ration", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "mug", "spool of cat6", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "mug", "prime number", "food ration", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "mug", "prime number", "food ration", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "mug", "prime number", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "mug", "food ration", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "spool of cat6", "prime number", "food ration", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "spool of cat6", "prime number", "food ration", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "spool of cat6", "prime number", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "spool of cat6", "food ration", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "prime number", "food ration", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "mug", "spool of cat6", "prime number", "food ration", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "mug", "spool of cat6", "prime number", "food ration", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "mug", "spool of cat6", "prime number", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "mug", "spool of cat6", "food ration", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "mug", "prime number", "food ration", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "spool of cat6", "prime number", "food ration", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "mug", "spool of cat6", "prime number", "food ration", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "mug", "spool of cat6", "prime number", "food ration", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "mug", "spool of cat6", "prime number", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "mug", "spool of cat6", "food ration", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "mug", "prime number", "food ration", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "spool of cat6", "prime number", "food ration", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["mug", "spool of cat6", "prime number", "food ration", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "mug", "spool of cat6", "prime number", "food ration", "fuel cell"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "mug", "spool of cat6", "prime number", "food ration", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "mug", "spool of cat6", "prime number", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "mug", "spool of cat6", "food ration", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "mug", "prime number", "food ration", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are lighter than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "spool of cat6", "prime number", "food ration", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "mug", "spool of cat6", "prime number", "food ration", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["loom", "mug", "spool of cat6", "prime number", "food ration", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?
+["jam", "loom", "mug", "spool of cat6", "prime number", "food ration", "fuel cell", "manifold"]
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Alert! Droids on this ship are heavier than the detected value!" and you are ejected back to the checkpoint.
+
+
+
+== Security Checkpoint ==
+In the next room, a pressure-sensitive floor will verify your identity.
+
+Doors here lead:
+- north
+- east
+
+Command?

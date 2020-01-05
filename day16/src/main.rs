@@ -47,14 +47,18 @@ fn part1() {
 
 fn part2() {
     let input = fs::read_to_string("input.txt").unwrap();
-    let result = iterate_phases(&create_input(&input));
-    println!(
-        "part1: {:?}",
-        result[..8]
-            .iter()
-            .map(|d| d.to_string())
-            .collect::<String>()
-    );
+    println!("part2: {}", calculate_fft_part2(&input));
+}
+
+fn calculate_fft_part2(input: &str) -> String {
+    let vec = create_input(&input);
+    let offset = input.chars().take(7).collect::<String>().parse::<usize>().unwrap();
+    dbg!(&offset);
+    let result = iterate_phases_with_offset(&vec, offset);
+    result[..8]
+        .iter()
+        .map(|d| d.to_string())
+        .collect::<String>()
 }
 
 fn create_input(input: &str) -> Vec<isize> {
@@ -86,6 +90,37 @@ fn iterate_phases(input: &Vec<isize>) -> Vec<isize> {
     })
 }
 
+fn iterate_phases_with_offset(input: &Vec<isize>, offset: usize) -> Vec<isize> {
+    // Pattern coefficent devolves to just 1 when 
+    // position of number is greater than half the length
+    // Therefore if you work back to front you can just add to the "previous" number
+    let tail_length = input.len() * 10_000 - offset;
+    let mut tail: Vec<isize> = input
+        .iter()
+        .cloned()
+        .cycle()
+        .skip(offset)
+        .take(tail_length)
+        .collect::<Vec<_>>()
+        .into_iter()
+        .rev()
+        .collect();
+
+    for _ in 0..100 {
+        for n in 0..tail.len() {
+            let previous = if n != 0 {
+                *tail.get(n - 1).unwrap()
+            } else {
+                0
+            };
+
+            tail[n] = (previous + tail[n]) % 10
+        }
+    }
+
+    tail.into_iter().rev().collect()
+}
+
 #[test]
 fn it_creates_patterns_correctly0() {
     let pattern = Pattern::new(0);
@@ -110,19 +145,13 @@ fn it_creates_patterns_correctly2() {
 #[test]
 fn it_creates_patterns_correctly10000() {
     let pattern = Pattern::new(10000);
-    assert_eq!(
-        pattern.to_vec(10000),
-        vec![0; 10000]
-    );
+    assert_eq!(pattern.to_vec(10000), vec![0; 10000]);
 }
 
 #[test]
 fn it_creates_patterns_correctly650() {
     let pattern = Pattern::new(650);
-    assert_eq!(
-        pattern.to_vec(650),
-        vec![0; 650]
-    );
+    assert_eq!(pattern.to_vec(650), vec![0; 650]);
 }
 
 #[test]
@@ -146,4 +175,12 @@ fn ndarray_works() {
     let a = arr1(&[1, 2, 3, 4]);
     let b = arr1(&[1, 1, 1, 1]);
     assert_eq!(a.dot(&b), 10);
+}
+
+#[test]
+fn part2_works() {
+    assert_eq!(
+        calculate_fft_part2("03036732577212944063491565474664"),
+        "84462026"
+    );
 }

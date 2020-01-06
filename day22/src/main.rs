@@ -1,28 +1,66 @@
-#![feature(is_sorted)]
-use std::collections::VecDeque;
 use std::fs;
-use modinverse::modinverse;
 
 fn main() {
-    // println!("part1 {}", part1());
-    part2();
+    println!("part1 {}", part1());
+    println!("part2 {}", part2());
+}
+
+fn mod_pow_by_squaring(mut base: i128, mut exponent: i128, modulus: i128) -> i128 {
+    if modulus == 1 { return 0 }
+
+    let mut result = 1;
+    while exponent > 0 {
+        if exponent % 2 == 1 {
+            result = (result * base).rem_euclid(modulus)
+        }
+        exponent >>= 1;
+        base = (base * base).rem_euclid(modulus)
+    }
+    result
+}
+
+fn geometric_sum(starting_pos: i128, a: i128, b: i128, length: i128, shuffles: i128) -> i128 {
+    let a_pow_shuffles = mod_pow_by_squaring(a, shuffles, length);
+    let p = (b * (1 - a_pow_shuffles)).rem_euclid(length);
+    let q = (1 - a).rem_euclid(length);
+
+    // invert Q so you can divide
+    let q_inv = mod_pow_by_squaring(q, length - 2, length);
+    let p_on_q = p * q_inv;
+    (a_pow_shuffles * starting_pos + p_on_q).rem_euclid(length)
+
+}
+
+fn inv_geometric_sum(starting_pos: i128, a: i128, b: i128, length: i128, shuffles: i128) -> i128 {
+    let a_pow_shuffles = mod_pow_by_squaring(a, shuffles, length);
+    let p = (b * (1 - a_pow_shuffles)).rem_euclid(length);
+    let q = (1 - a).rem_euclid(length);
+
+    let q_inv = mod_pow_by_squaring(q, length - 2, length);
+    let p_on_q = p * q_inv;
+
+    let a_inv = mod_pow_by_squaring(a_pow_shuffles, length - 2, length);
+    ((starting_pos - p_on_q) * a_inv).rem_euclid(length)
 }
 
 fn part1() -> i32 {
     let instructions = input_to_instructions("input.txt");
-    let deck = (0..10007).collect::<Vec<i32>>();
-    instructions.iter().fold(deck, |cards, instruction| {
-        instruction.apply(cards)
-    }).iter().enumerate().find_map(|(i, num)| {
-        if *num == 2019 {
-            Some(i as i32)
-        } else {
-            None
-        }
-    }).expect("couldn't find card")
+    let length = 10007;
+    let lgc = instructions.iter().fold((1, 0), |lgc, instruction| {
+        instruction.compose_lgc(lgc.0, lgc.1, length)
+    });
+    geometric_sum(2019, lgc.0, lgc.1, length, 1) as i32
 }
 
-fn part2() {
+fn part2() -> i128 {
+    let instructions = input_to_instructions("input.txt");
+    let length = 119315717514047 ;
+    let shuffles = 101741582076661;
+    let lgc = instructions.iter().fold((1, 0), |lgc, instruction| {
+        instruction.compose_lgc(lgc.0, lgc.1, length)
+    });
+    let card = 2020;
+    inv_geometric_sum(card, lgc.0, lgc.1, length, shuffles) as i128
 }
 
 enum Instruction {
@@ -62,6 +100,18 @@ impl Instruction {
                 }
             }
         }
+    }
+
+    fn compose_lgc(&self, a: i128, b: i128, length: i128) -> (i128, i128) {
+        use Instruction::*;
+
+        let (c, d) = match self {
+            NewStack => (-1, -1),
+            Cut(n) => (1, -1 * *n as i128),
+            Increment(n) => (*n as i128, 0),
+        };
+
+        ((a * c).rem_euclid(length), (b * c + d).rem_euclid(length))
     }
 }
 
@@ -124,4 +174,9 @@ fn instruction_increment_works() {
         Instruction::Increment(3).apply(vec),
         vec![0, 7, 4, 1, 8, 5, 2, 9, 6, 3]
     );
+}
+
+#[test]
+fn part1_works() {
+    assert_eq!(part1(), 6061);
 }
